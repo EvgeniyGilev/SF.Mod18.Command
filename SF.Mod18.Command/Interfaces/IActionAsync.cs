@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SF.Mod18.Command.Iinterfaces
+namespace SF.Mod18.Command.Interfaces
 {
     /// <summary>
     /// интерфейс команд асинхронные таски
